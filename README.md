@@ -2,10 +2,11 @@
 Ответы на вопросы:
 
 1) let и const; 
-2)
-3) alert(`hello ${1}`); // hello 1
-   alert(`hello ${'name'}`); // hello name
-   alert(`hello ${name2}`); // hello ilya
+2) console.log('Hello World');<br>
+  
+3) alert(`hello ${1}`); // hello 1 <br>
+   alert(`hello ${'name'}`); // hello name <br>
+   alert(`hello ${name2}`); // hello ilya <br>
    
 4) 7
 5) Через атрибут onClick у элемента, внутри тегов <script></script> перед закрывающим тегом </body>, через ссылку на файл <script src=""></script>
