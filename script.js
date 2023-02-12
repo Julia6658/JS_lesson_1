@@ -16,9 +16,9 @@ let messenger = 128,
     vk = 137,
     youtube = 201;
 
-let timeWaste = messenger + like + vk + youtube;
+let timeWaste = (messenger + like + vk + youtube) / 60;
 
-console.log("Прокрастинировала " + timeWaste + " минут");
+console.log("Прокрастинировала " + timeWaste + " часовп");
 
 // 4 Задание
 console.log(2 ** 5);
@@ -51,9 +51,7 @@ const fahrenheit = 451;
 const celsius = (fahrenheit - 32) / 1.8;
 console.log(`${fahrenheit} градуса по Фаренгейту — это ${celsius} градуса по Цельсию`);
 
-let x = 5;
-x -=2;
-console.log(x);
+
 
 
 
